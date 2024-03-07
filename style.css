@@ -3,6 +3,7 @@ body {
 }
 
 .backGround {
+  display: inline-block;
   margin: 152px 560px 151px 560px;
   background-color: white;
   border-radius: 10px;
